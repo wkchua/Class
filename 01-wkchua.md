@@ -1,6 +1,1 @@
-
-
-
-
-
 My Github training file.
