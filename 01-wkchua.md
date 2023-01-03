@@ -3,4 +3,4 @@ My Github Training File
 
 
 
-An edit on modify-first branch.
+An edit on modify-conflict branch.
